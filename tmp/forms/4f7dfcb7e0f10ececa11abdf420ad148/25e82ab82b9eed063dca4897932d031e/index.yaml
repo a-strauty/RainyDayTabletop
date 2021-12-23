@@ -1,0 +1,30 @@
+form: flex-pages
+unique_id: 25e82ab82b9eed063dca4897932d031e
+url: '/pages/kyrahs-chronicle/:add'
+user:
+  username: adminadam
+  email: adam.strautman@gmail.com
+timestamps:
+  created: 1637805363
+  updated: 1637805363
+data: null
+files: {  }
+object:
+  type: pages
+  key: kyrahs-chronicle
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META: {  }
+    storage_key: ''
+    parent_key: ''
+    order: '03.'
+    folder: kyrahs-chronicle
+    template: blog_list
+    lang: ''
+    root: false
+    route: /
+    name: blog_list
+    header:
+      title: 'Kyrah''s Chronicle'
+    frontmatter: "title: 'Kyrah''s Chronicle'\n"

@@ -1,0 +1,11 @@
+state: enabled
+email: adam.strautman@gmail.com
+fullname: 'System Administrator'
+title: Adam Strautman
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$xOXgCBSeDk/lYNzKmnS7Ae34T3CMRHUCNl7SbSRaFEvr4rgmKEFnm
