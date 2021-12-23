@@ -1,5 +1,5 @@
 ---
-title: 'Kyrah''s Chronicle'
+title: 'Session Recap'
 published: true
 content:
     items:
